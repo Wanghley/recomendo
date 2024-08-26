@@ -43,8 +43,6 @@
 <!-- VISUALISATIONS -->
 ## Visualisations
 
-Explore the dashboards [here](https://public.tableau.com/views/RestaurantSalesAnalysis_17163830175340/DashboardOrganisationAnnualPerformance?:language=en-GB&:sid=&:display_count=n&:origin=viz_share_link).
-
 ### Organisation's Annual Performance Dashboard
 
 This dashboard allows users to track the restaurant organization’s performance based on metrics like the number of orders, sales, cost, and profit. It also helps users easily identify which products contribute the most to sales.
@@ -69,20 +67,6 @@ The design of the data warehouse supports efficient data retrieval and analysis.
 
 - **Additional Data Generation**: Enhancing the project by generating more data to allow for a more realistic analysis of the organization’s performance, including employee data, working hours, spoilage data, etc.
 - **Ingredient Demand Dashboards**: Adding dashboards to analyze ingredient demand, helping restaurants maintain accurate stock levels.
-
-<!-- GETTING STARTED -->
-## Getting Started
-
-This project is built with [Create React App](https://github.com/facebook/create-react-app).
-
-### Available Scripts
-
-In the project directory, you can run:
-
-- **`npm start`**: Runs the app in development mode.
-- **`npm test`**: Launches the test runner in the interactive watch mode.
-- **`npm run build`**: Builds the app for production.
-- **`npm run eject`**: Ejects the app, giving full control over the configuration.
 
 <!-- ROADMAP -->
 ## Roadmap
